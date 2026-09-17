@@ -1,0 +1,7 @@
+Q.1)Draw a dfa for the language accepting strings ending with 0 our input alphabet sigma={0,1}?
+
+Q.2)Draw a dfa for the language accepting strings ending with 01 over input alphabet sigma={0,1}? 
+
+Q.3)Draw a dfa for the language accepting strings with 0 and 1 only our input alphabet sigma={0,1}?
+
+Q.4)Draw a dfa for the language accepting strings starting with 0 our input alphabet sigma={0,1}?
