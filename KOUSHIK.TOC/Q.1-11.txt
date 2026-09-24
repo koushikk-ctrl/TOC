@@ -1,0 +1,21 @@
+Q.1)Draw a dfa for the language accepting strings ending with 0 our input alphabet sigma={0,1}?
+
+Q.2)Draw a dfa for the language accepting strings ending with 01 over input alphabet sigma={0,1}? 
+
+Q.3)Draw a dfa for the language accepting strings with 0 and 1 only our input alphabet sigma={0,1}?
+
+Q.4)Draw a dfa for the language accepting strings starting with 0 our input alphabet sigma={0,1}?
+
+Q.5)Draw a dfa for the language accepting strings with 0 only?
+
+Q.6)Draw a dfa for the language accepting strings starting with 00 our input alphabet sigma={0,1}?
+
+Q.7)Draw a dfa for the language accepting strings starting with 00 or 11 our input alphabet sigma={0,1}?
+
+Q.8)Draw a dfa for the language accepting even binary strings our input alphabet sigma={0,1}?
+
+Q.9)Draw a dfa for the language accepting odd binary strings our input alphabet sigma={0,1}?
+
+Q.10)Draw a dfa for the language accepting odd and Even binary strings our input alphabet sigma={0,1}?
+
+Q.11)Draw a dfa for the language accepting strings starting and Ending with Different Character's our input alphabet sigma={0,1}?
