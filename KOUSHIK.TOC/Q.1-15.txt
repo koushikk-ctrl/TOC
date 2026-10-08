@@ -32,3 +32,4 @@ Q.16)Design NDFA INPUT alphabet sigma={a,b},That accepts all strings end with bb
 
 Q.17)Design NDFA Accept all the string start with 1 and end with 0?
 
+Q.18)Design NDFA in which sigma={a,b} must contain bbb or baab as a sub string?
