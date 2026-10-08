@@ -27,3 +27,8 @@ Q.13)Draw a dfa for the language accepting strings starting and ending with 0 on
 Q.14)Draw a dfa for the language accepting strings such that each 0 is precided and followed by 1 our input alphabet sigma={0,1}?
 
 Q.15)Draw a nfa for the language accepting only strings staring with "aa" or "bb" our input alphabet sigma={a,b}?
+
+Q.16)Design NDFA INPUT alphabet sigma={a,b},That accepts all strings end with bbb or bab?
+
+Q.17)Design NDFA Accept all the string start with 1 and end with 0?
+
